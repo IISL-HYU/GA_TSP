@@ -1,6 +1,6 @@
 # GA_TSP
 
-## Genetic Algorithm Implemented (For solving simple Travelling salesman Problem)
+## Genetic Algorithm Implemented (Drilling PCB)
 
 The problem set is from 
 ```
